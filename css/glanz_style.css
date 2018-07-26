@@ -5937,7 +5937,7 @@ header nav.gla_transp_nav {
 }
 .gla_logo,
 .tablet.portrait .gla_logo {
-	top: 18px;
+	/* top: 10px; */
 	z-index: 3;
 }
 
