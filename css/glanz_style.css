@@ -223,7 +223,7 @@ h2 {
 	font:900 80px marsha, Arial;
 }
 .gla_middle_titles h2 {
-	font:400 70px/80px marsha, Dosis;
+	/* font:400 70px/80px marsha, Dosis; */
 	margin-bottom: 60px;
 }
 
@@ -617,7 +617,8 @@ textarea.form-control {
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
-	background: rgba(0,0,0,0.2);
+	background: rgba(0,0,0,0.9);
+	color: #fff;
 	padding: 12px 15px;
 	line-height: inherit;
 	vertical-align: top;
@@ -722,8 +723,8 @@ textarea.form-control {
 		background: rgba(0,0,0,0.6);
 	}
 .gla_wht_txt .btn {
-	background: rgba(0,0,0,0.6);
-	color: #fff;
+	background: rgba(255,255,255);
+	color: #000;
 }
 	.gla_wht_txt .btn:hover {
 		background: rgba(0,0,0,0.9);
@@ -1192,7 +1193,7 @@ h5 .label, h6 .label {
 		height: auto;
 	}
 	.gla_slider img {
-		max-width: 200px!important;
+		max-width: 300px!important;
 		height: auto;
 	}
 }
@@ -5972,7 +5973,7 @@ header nav.gla_transp_nav {
 }
 
 .gla_middle_titles h2 {
-	font:900 30px/30px Dosis, Arial;
+	/* font:900 30px/30px Playfair Display, Arial; */
 	margin-bottom: 50px;
 }
 .gla_icon_boxes {
