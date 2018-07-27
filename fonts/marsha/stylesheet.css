@@ -4,12 +4,12 @@
 
 @font-face {
     font-family: 'marsha';
-    src: url('marsha_belle_demo_version-webfont.eot');
-    src: url('marsha_belle_demo_version-webfontd41d.eot?#iefix') format('embedded-opentype'),
-         url('marsha_belle_demo_version-webfont.woff2') format('woff2'),
-         url('marsha_belle_demo_version-webfont.woff') format('woff'),
-         url('marsha_belle_demo_version-webfont.ttf') format('truetype'),
-         url('marsha_belle_demo_version-webfont.svg#marsha_belleregular') format('svg');
+    src: url('https://res.cloudinary.com/dzomirrk1/raw/upload/v1532681305/MeedahAbdul/marsha_belle_demo_version-webfontd41d.eot');
+    src: url('https://res.cloudinary.com/dzomirrk1/raw/upload/v1532681305/MeedahAbdul/marsha_belle_demo_version-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('https://res.cloudinary.com/dzomirrk1/raw/upload/v1532681305/MeedahAbdul/marsha_belle_demo_version-webfont.woff2') format('woff2'),
+         url('https://res.cloudinary.com/dzomirrk1/raw/upload/v1532681305/MeedahAbdul/marsha_belle_demo_version-webfont.woff') format('woff'),
+         url('https://res.cloudinary.com/dzomirrk1/raw/upload/v1532681305/MeedahAbdul/marsha_belle_demo_version-webfont.ttf') format('truetype'),
+         url('https://drive.google.com/open?id=1tbFhpWhykDa5dKoXA8UhxY52Gao_NgJq#marsha_belleregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
