@@ -549,7 +549,7 @@ textarea.form-control {
 	transition: all 0.3s;
 	background: rgba(0,0,0,0.9);
 	color: #fff;
-	padding: 12px 15px;
+	padding: 20px 20px;
 	line-height: inherit;
 	vertical-align: top;
 }
